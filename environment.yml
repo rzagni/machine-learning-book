@@ -10,7 +10,8 @@ dependencies:
   - python=3.9
   - matplotlib=3.4.3
   - scikit-learn=1.0
-  - jupyterlab>=3.4.4
+  - jupyter
+  - notebook
   - pip
   - pip:
     - torch==1.9.0
